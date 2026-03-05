@@ -165,7 +165,7 @@ If you want to run Monica locally for development or testing purposes, the repos
 
 Make sure you have [Docker](https://www.docker.com/) installed and running on your machine, then execute the following command from the project root:
 
-bash
+bash  
 bash sail-init.sh
 
 
